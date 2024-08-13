@@ -1,6 +1,9 @@
 #include <cs50.h>
 #include <stdio.h>
 
+// written by Fatemeh Parsaei
+// August 2024
+
 int countTheCoins(int cents);
 
 int main(void)
