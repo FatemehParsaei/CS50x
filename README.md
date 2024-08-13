@@ -1,5 +1,5 @@
 # CS50x
-Harvard CS50x Assignments
+Harvard  CS50x  Assignments
 ---
 
 1. Week 0 -- Scratch -----> Food Truck
