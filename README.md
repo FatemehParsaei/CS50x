@@ -1,4 +1,4 @@
-#h1 CS50x
+# CS50x
 Harvard CS50x Assignments
 ---
 
