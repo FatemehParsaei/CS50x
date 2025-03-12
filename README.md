@@ -12,8 +12,7 @@ CS50x  Assignments
 8. Week 7 -- SQL ---------> 1) Songs, 2) Movies, 3) Fiftyville
 9. Week 8 -- HTML, CSS -> 1) Trivia, 2) Homepage
 10. Week 9 -- Flask --------> 1) Birthdays, 2) Finance
-11. pdf ------>  My Certificate
-    
+11. My Certificate ------->  [CS50x.pdf](https://github.com/user-attachments/files/19218822/CS50x.pdf)
+
 ![CS50x](https://github.com/user-attachments/assets/c3c83962-c02d-4cf3-801a-c75577dd601a)
 
-[CS50x.pdf](https://github.com/user-attachments/files/19218822/CS50x.pdf)
