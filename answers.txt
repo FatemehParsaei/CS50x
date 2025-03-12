@@ -1,0 +1,13 @@
+sort1 uses: Bubble sort
+
+How do you know?: in sorted files because no swaps needed it was the fastest
+but in random and reversed files it was slower than sort3
+
+sort2 uses: Merge sort
+
+How do you know?: sorted the random files faster than others
+
+sort3 uses: Selection sort
+
+How do you know?: in random and reversed files was faster than sort1 but
+in sorted files was slower than sort1 because it must check everything 
