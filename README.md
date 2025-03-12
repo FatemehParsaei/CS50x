@@ -14,4 +14,5 @@ CS50x  Assignments
 10. Week 9 -- Flask --------> 1) Birthdays, 2) Finance
 11. pdf ------>  My Certificate
     
-![Uploading CS50x.png…]()
+
+[CS50x.pdf](https://github.com/user-attachments/files/19218822/CS50x.pdf)
